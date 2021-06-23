@@ -1,0 +1,56 @@
+.bg-dark {
+    background-color: #bea388 !important;
+}
+.logoTipo {
+    font-family: josefin sans;
+    color: beige;
+}
+.redes{
+    text-align:center;
+}
+.card-container{
+    display:flex;
+}
+.card {
+    width: 340px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: #FBFBFB;
+    border-radius: 30px 30px 0 0;
+    font-family: Roboto, Arial, sans-serif;
+    text-align: center;
+    box-shadow: 0px 0px 4px 4px rgba(0,0,0,0.1);
+    margin:20px;
+  
+  }
+  
+  .card-info {
+    padding: 0 20px 20px 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 30px 30px 0 0;
+  }
+  
+  p {
+    text-align: center;
+  }
+
+  
+  .button {
+    display: inline-block;
+    border: none;
+    border-radius: 30px;
+    background-color: #bea388;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+  }
+  button {
+    text-align: center;
+  }
+  .titulocards {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#bea388 ;
+  }
